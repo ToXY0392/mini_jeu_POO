@@ -12,16 +12,7 @@ Version 2: Interactive combat between a human player and two bots (HumanPlayer +
 
 Version 3: A full game architecture using a Game class, with enemy management and new enemies appearing over time
 
-🗂 Project Structure
-mini_jeu_POO
-├── app.rb         # Version 1
-├── app_2.rb       # Version 2
-├── app_3.rb       # Version 3
-├── lib
-│   ├── player.rb  # Player + HumanPlayer
-│   └── game.rb    # Game (used in Version 3)
-├── Gemfile
-└── README.md
+
 
 🚀 Installation
 
